@@ -52,7 +52,7 @@
 
 ## 💭 Additional Information
 
-- ✈️ Can identify most commercial aircraft by sight
+- ✈️ Can identify most commercial and military aircraft by sight
 - 🎮 Love flight simulators and aviation games
 - 🎵 Moosic all the way
 -  ✞ Currently following Bible in a Year Podcast
