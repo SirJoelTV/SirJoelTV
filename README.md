@@ -6,6 +6,17 @@
 -  ✞  **Catholic (Ecclesia Latina)** - *opens bible after a bad day* , *gets hit with 10 chapters of genealogy and temple building tutorial*.
 - 🎹  **Musical student** - Trying to continue my keyboard classes that were halted back in 2020.
 
+## 💻 Official Social Media Platforms
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_joeltv)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-t-varghese-21806330a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeltvarghese6@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kfuf2y4J)
+
+</div>
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,19 +50,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SirJoelTV&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
 
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_joeltv)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/joel-t-varghese-21806330a/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeltvarghese6@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kfuf2y4J)
-
-</div>
-
-## 💭 Fun Facts
+## 💭 Additional Information
 
 - ✈️ Can identify most commercial aircraft by sight
 - 🎮 Love flight simulators and aviation games
