@@ -3,7 +3,7 @@
 - 🎓  **AI & DS Engineering Student** - Passionate about technology
 - ✈️  **Aviation Enthusiast** - Fascinated by commercial and military aviation.  
 - 📜  **Amatuer History Nerd** - Never slept during history classes.
--  ✞  **Catholic (Ecclesia Latina)** - *opens Holy Bible after a bad day* , *gets hit with 10 chapters of genealogy and temple building tutorial*.
+-  ✞  **Catholic (Ecclesia Latina)** - *opens Holy Bible after a bad day*, *gets hit with 10 chapters of genealogy and temple building tutorial*.
 - 🎹  **Musical student** - Trying to continue my keyboard classes that were halted back in 2020.
 
 ## 💻 Official Social Media Platforms
