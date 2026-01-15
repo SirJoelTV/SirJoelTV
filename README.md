@@ -4,7 +4,6 @@
 - ✈️  **Aviation Enthusiast** - Fascinated by commercial and military aviation.  
 - 📜  **Amatuer History Nerd** - Never slept during history classes.
 -  ✞  **Catholic (Ecclesia Latina)** - *opens Holy Bible after a bad day*, *gets hit with 10 chapters of genealogy and temple building tutorial*.
-- 🎹  **Musical student** - Trying to continue my keyboard classes that were halted back in 2020.
 
 ## 💻 Official Social Media Platforms
 
@@ -13,7 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_joeltv)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-t-varghese-21806330a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeltvarghese6@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kfuf2y4J)
 
 </div>
 
@@ -54,6 +52,5 @@
 - ✈️ Can identify most commercial and military aircraft by sight
 - 🎮 Love flight simulators and aviation games
 - 🎵 Moosic all the way
--  ✞ Currently following Bible in a Year Podcast
 
 ---
