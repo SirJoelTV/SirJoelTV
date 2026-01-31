@@ -42,10 +42,6 @@
   <img src="https://github-readme-streak-stats.demolab.com/?user=SirJoelTV&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SirJoelTV&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</div>
 
 ## 💭 Additional Information
 
