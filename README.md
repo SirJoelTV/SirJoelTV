@@ -1,6 +1,6 @@
 # Hello, I'm Joel T Varghese
 
--   **AI & DS Engineering Student** - Passionate about technology
+-   **AI & DS Engineering Graduate** - Passionate about technology
 -   **Aviation Enthusiast** - Fascinated by commercial and military aviation.  
 -   **Amatuer History Nerd** - Never slept during history classes.
 -   **Catholic (Ecclesia Latina)** - *opens Holy Bible after a bad day*, *gets hit with 10 chapters of genealogy and temple building tutorial*.
